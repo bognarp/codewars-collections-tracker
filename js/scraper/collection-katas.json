@@ -1,0 +1,516 @@
+[
+  {
+    "section": "Git",
+    "title": "strange-strings-8kyu-1",
+    "katas": [
+      {
+        "id": "55902c5eaa8069a5b4000083",
+        "title": "Dollars and Cents"
+      },
+      {
+        "id": "57eaeb9578748ff92a000009",
+        "title": "Sum Mixed Array"
+      },
+      {
+        "id": "57cfdf34902f6ba3d300001e",
+        "title": "Sort and Star"
+      },
+      {
+        "id": "57eadb7ecd143f4c9c0000a3",
+        "title": "Abbreviate a Two Word Name"
+      },
+      {
+        "id": "5a360620f28b82a711000047",
+        "title": "Define a card suit"
+      },
+      {
+        "id": "559ac78160f0be07c200005a",
+        "title": "Name Shuffler"
+      },
+      {
+        "id": "563b74ddd19a3ad462000054",
+        "title": "Stringy Strings"
+      },
+      {
+        "id": "50654ddff44f800200000004",
+        "title": "Multiply"
+      },
+      {
+        "id": "57eae65a4321032ce000002d",
+        "title": "Fake Binary"
+      },
+      {
+        "id": "57cc975ed542d3148f00015b",
+        "title": "You only need one - Beginner"
+      },
+      {
+        "id": "57eae20f5500ad98e50002c5",
+        "title": "Remove String Spaces"
+      },
+      {
+        "id": "56bc28ad5bdaeb48760009b0",
+        "title": "Remove First and Last Character"
+      },
+      {
+        "id": "559f3123e66a7204f000009f",
+        "title": "Take an Arrow to the knee, Functionally"
+      },
+      {
+        "id": "57613fb1033d766171000d60",
+        "title": "UEFA EURO 2016"
+      },
+      {
+        "id": "57ab2d6072292dbf7c000039",
+        "title": "Polish alphabet"
+      },
+      {
+        "id": "557af9418895e44de7000053",
+        "title": "repeatIt"
+      },
+      {
+        "id": "5547929140907378f9000039",
+        "title": "Vowel remover"
+      },
+      {
+        "id": "57f222ce69e09c3630000212",
+        "title": "Well of Ideas - Easy Version"
+      },
+      {
+        "id": "5aa736a455f906981800360d",
+        "title": "The Feast of Many Beasts"
+      }
+    ]
+  },
+  {
+    "section": "HTML5 Basics",
+    "title": "jealous-jumpers",
+    "katas": [
+      {
+        "id": "55eca815d0d20962e1000106",
+        "title": "Generate range of integers"
+      },
+      {
+        "id": "55a2d7ebe362935a210000b2",
+        "title": "Find the smallest integer in the array"
+      },
+      {
+        "id": "5aa736a455f906981800360d",
+        "title": "The Feast of Many Beasts"
+      },
+      {
+        "id": "56bc28ad5bdaeb48760009b0",
+        "title": "Remove First and Last Character"
+      },
+      {
+        "id": "577bd026df78c19bca0002c0",
+        "title": "Correct the mistakes of the character recognition software"
+      },
+      {
+        "id": "57eae20f5500ad98e50002c5",
+        "title": "Remove String Spaces"
+      },
+      {
+        "id": "57fb09ef2b5314a8a90001ed",
+        "title": "Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence"
+      },
+      {
+        "id": "5583090cbe83f4fd8c000051",
+        "title": "Convert number to reversed array of digits"
+      },
+      {
+        "id": "57241e0f440cd279b5000829",
+        "title": "Sum of Multiples"
+      },
+      {
+        "id": "57a4d500e298a7952100035d",
+        "title": "Hex to Decimal"
+      },
+      {
+        "id": "57a0e5c372292dd76d000d7e",
+        "title": "String repeat"
+      },
+      {
+        "id": "57f781872e3d8ca2a000007e",
+        "title": "Beginner - Lost Without a Map"
+      },
+      {
+        "id": "525c1a07bb6dda6944000031",
+        "title": "Kata Example Twist"
+      },
+      {
+        "id": "55225023e1be1ec8bc000390",
+        "title": "Jenny's secret message"
+      },
+      {
+        "id": "54edbc7200b811e956000556",
+        "title": "Counting sheep..."
+      },
+      {
+        "id": "571d42206414b103dc0006a1",
+        "title": "Filling an array (part 1)"
+      },
+      {
+        "id": "50654ddff44f800200000007",
+        "title": "Short Long Short"
+      },
+      {
+        "id": "559d2284b5bb6799e9000047",
+        "title": "Add Length"
+      },
+      {
+        "id": "55edaba99da3a9c84000003b",
+        "title": "Find numbers which are divisible by given number"
+      },
+      {
+        "id": "51c8991dee245d7ddf00000e",
+        "title": "Reversed Words"
+      }
+    ]
+  },
+  {
+    "section": "CSS Basics",
+    "title": "numerous-nuances",
+    "katas": [
+      {
+        "id": "52adc142b2651f25a8000643",
+        "title": "Sleigh Authentication"
+      },
+      {
+        "id": "53369039d7ab3ac506000467",
+        "title": "Convert boolean values to strings 'Yes' or 'No'."
+      },
+      {
+        "id": "57a5c31ce298a7e6b7000334",
+        "title": "Bin to Decimal"
+      },
+      {
+        "id": "5715eaedb436cf5606000381",
+        "title": "Sum of positive"
+      },
+      {
+        "id": "5a34af40e1ce0eb1f5000036",
+        "title": "CSV representation of array"
+      },
+      {
+        "id": "57e1e61ba396b3727c000251",
+        "title": "String cleaning"
+      },
+      {
+        "id": "59bd5dc270a3b7350c00008b",
+        "title": "Man in the west"
+      },
+      {
+        "id": "55685cd7ad70877c23000102",
+        "title": "Return Negative"
+      },
+      {
+        "id": "5a2be17aee1aaefe2a000151",
+        "title": "Array plus array"
+      },
+      {
+        "id": "5a00e05cc374cb34d100000d",
+        "title": "Reversed sequence "
+      },
+      {
+        "id": "53da3dbb4a5168369a0000fe",
+        "title": "Even or Odd"
+      },
+      {
+        "id": "58dbdccee5ee8fa2f9000058",
+        "title": "Do you speak \"English\"?"
+      },
+      {
+        "id": "55a4f9afeffe4231090000d6",
+        "title": "Is integer safe to use?"
+      },
+      {
+        "id": "555a67db74814aa4ee0001b5",
+        "title": "Is it even?"
+      },
+      {
+        "id": "55ad04714f0b468e8200001c",
+        "title": "get character from ASCII Value"
+      },
+      {
+        "id": "572b6b2772a38bc1e700007a",
+        "title": "ASCII Total"
+      },
+      {
+        "id": "524f5125ad9c12894e00003f",
+        "title": "Find the Remainder"
+      },
+      {
+        "id": "57fae964d80daa229d000126",
+        "title": "Exclamation marks series #1: Remove an exclamation mark from the end of string"
+      },
+      {
+        "id": "57a2013acf1fa5bfc4000921",
+        "title": "Calculate average "
+      }
+    ]
+  },
+  {
+    "section": "Pre & Post Processing CSS",
+    "title": "ornamental-objectives",
+    "katas": [
+      {
+        "id": "5648b12ce68d9daa6b000099",
+        "title": "Number of People in the Bus"
+      },
+      {
+        "id": "56530b444e831334c0000020",
+        "title": "Determine offspring sex based on genes XX and XY chromosomes"
+      },
+      {
+        "id": "5899642f6e1b25935d000161",
+        "title": "Merge two sorted arrays into one"
+      },
+      {
+        "id": "5a6663e9fd56cb5ab800008b",
+        "title": "Cat years, Dog years"
+      },
+      {
+        "id": "595970246c9b8fa0a8000086",
+        "title": "Capitalization and Mutability"
+      },
+      {
+        "id": "58cb43f4256836ed95000f97",
+        "title": "Difference of Volumes of Cuboids"
+      },
+      {
+        "id": "5601409514fc93442500010b",
+        "title": "How good are you really?"
+      },
+      {
+        "id": "5a0be7ea8ba914fc9c00006b",
+        "title": "The falling speed of petals"
+      },
+      {
+        "id": "59c8b38423dacc7d95000008",
+        "title": "Simple Fun #352: Reagent Formula"
+      },
+      {
+        "id": "58bf9bd943fadb2a980000a7",
+        "title": "Who is going to pay for the wall?"
+      },
+      {
+        "id": "574b3b1599d8f897470018f6",
+        "title": "What's the real floor?"
+      },
+      {
+        "id": "55ccdf1512938ce3ac000056",
+        "title": "A Strange Trip to the Market"
+      },
+      {
+        "id": "56f695399400f5d9ef000af5",
+        "title": "Is this my tail?"
+      },
+      {
+        "id": "577a6e90d48e51c55e000217",
+        "title": "Collatz Conjecture (3n+1)"
+      },
+      {
+        "id": "5748a883eb737cab000022a6",
+        "title": "Pirates!! Are the Cannons ready!??"
+      }
+    ]
+  },
+  {
+    "section": "CSS Layouts",
+    "title": "diverging-dungeons",
+    "katas": [
+      {
+        "id": "5a34b80155519e1a00000009",
+        "title": "Multiple of  index"
+      },
+      {
+        "id": "56b7f2f3f18876033f000307",
+        "title": "Are the numbers in order?"
+      },
+      {
+        "id": "5a3dd29055519e23ec000074",
+        "title": "Check the exam"
+      },
+      {
+        "id": "55a996e0e8520afab9000055",
+        "title": "Who ate the cookie?"
+      },
+      {
+        "id": "5a2fd38b55519ed98f0000ce",
+        "title": "Multiplication table for number"
+      },
+      {
+        "id": "5890d8bc9f0f422cf200006b",
+        "title": "Calculate Price Excluding VAT"
+      },
+      {
+        "id": "5c8bfa44b9d1192e1ebd3d15",
+        "title": "A wolf in sheep's clothing"
+      },
+      {
+        "id": "56fc55cd1f5a93d68a001d4e",
+        "title": "How many stairs will Suzuki climb in 20 years?"
+      },
+      {
+        "id": "5bb904724c47249b10000131",
+        "title": "Total amount of points"
+      },
+      {
+        "id": "56598d8076ee7a0759000087",
+        "title": "Tip Calculator"
+      },
+      {
+        "id": "58ca658cc0d6401f2700045f",
+        "title": "Find Multiples of a Number"
+      },
+      {
+        "id": "5704aea738428f4d30000914",
+        "title": "Triple Trouble"
+      },
+      {
+        "id": "5672a98bdbdd995fad00000f",
+        "title": "Rock Paper Scissors!"
+      },
+      {
+        "id": "56170e844da7c6f647000063",
+        "title": "Drink about"
+      },
+      {
+        "id": "548ef5b7f33a646ea50000b2",
+        "title": "Character Frequency"
+      }
+    ]
+  },
+  {
+    "section": "Responsive Design",
+    "title": "elementary-expeditions",
+    "katas": [
+      {
+        "id": "5720a1cb65a504fdff0003e2",
+        "title": "Find the Difference in Age between Oldest and Youngest Family Members"
+      },
+      {
+        "id": "5467e4d82edf8bbf40000155",
+        "title": "Descending Order"
+      },
+      {
+        "id": "56ff6a70e1a63ccdfa0001b1",
+        "title": "SpeedCode #2 - Array Madness"
+      },
+      {
+        "id": "57ee4a67108d3fd9eb0000e7",
+        "title": "Filter out the geese"
+      },
+      {
+        "id": "58f8a3a27a5c28d92e000144",
+        "title": "Find the first non-consecutive number"
+      },
+      {
+        "id": "55f2b110f61eb01779000053",
+        "title": "Beginner Series #3 Sum of Numbers"
+      },
+      {
+        "id": "53f0f358b9cb376eca001079",
+        "title": "Regular Ball Super Ball"
+      },
+      {
+        "id": "56cd44e1aa4ac7879200010b",
+        "title": "Is the string uppercase?"
+      },
+      {
+        "id": "55c0ac142326fdf18d0000af",
+        "title": "Playing with cubes II"
+      },
+      {
+        "id": "55a13556ca4a6d0ab4000003",
+        "title": "Lexical this"
+      },
+      {
+        "id": "56bcaedfcf6b7f2125001118",
+        "title": "Safen User Input Part I - htmlspecialchars"
+      },
+      {
+        "id": "5875b200d520904a04000003",
+        "title": "Will there be enough space?"
+      },
+      {
+        "id": "554b4ac871d6813a03000035",
+        "title": "Highest and Lowest"
+      },
+      {
+        "id": "54ff3102c1bad923760001f3",
+        "title": "Vowel Count"
+      },
+      {
+        "id": "5174a4c0f2769dd8b1000003",
+        "title": "Sort Numbers"
+      },
+      {
+        "id": "5667e8f4e3f572a8f2000039",
+        "title": "Mumbling"
+      },
+      {
+        "id": "54ba84be607a92aa900000f1",
+        "title": "Isograms"
+      },
+      {
+        "id": "5412509bd436bd33920011bc",
+        "title": "Credit Card Mask"
+      },
+      {
+        "id": "554e4a2f232cdd87d9000038",
+        "title": "Complementary DNA"
+      },
+      {
+        "id": "577b9960df78c19bca00007e",
+        "title": "Find the nth Digit of a Number"
+      }
+    ]
+  },
+  {
+    "section": "CSS Methodologies",
+    "title": "quiet-quanta",
+    "katas": [
+      {
+        "id": "5318f00b31b30925fd0001f8",
+        "title": "Formatting a number as price"
+      },
+      {
+        "id": "56dbe7f113c2f63570000b86",
+        "title": "Moves in squared strings (II)"
+      },
+      {
+        "id": "5208f99aee097e6552000148",
+        "title": "Break camelCase"
+      },
+      {
+        "id": "550554fd08b86f84fe000a58",
+        "title": "Which are  in?"
+      },
+      {
+        "id": "576757b1df89ecf5bd00073b",
+        "title": "Build Tower"
+      },
+      {
+        "id": "57eb8fcdf670e99d9b000272",
+        "title": "Highest Scoring Word"
+      },
+      {
+        "id": "54da5a58ea159efa38000836",
+        "title": "Find the odd int"
+      },
+      {
+        "id": "515de9ae9dcfc28eb6000001",
+        "title": "Split Strings"
+      },
+      {
+        "id": "541c8630095125aba6000c00",
+        "title": "Sum of Digits / Digital Root"
+      },
+      {
+        "id": "514b92a657cdc65150000006",
+        "title": "Multiples of 3 or 5"
+      }
+    ]
+  }
+]

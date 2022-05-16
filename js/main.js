@@ -26,9 +26,9 @@ async function generateCollections() {
   const thead = document.createElement('thead');
   const tr = document.createElement('tr');
 
-  const thHomework = document.createElement('th');
-  thHomework.textContent = `Homework Section`;
-  tr.appendChild(thHomework);
+  const thSection = document.createElement('th');
+  thSection.textContent = `Section`;
+  tr.appendChild(thSection);
 
   const thSlug = document.createElement('th');
   thSlug.textContent = `Slug`;
@@ -107,7 +107,6 @@ async function calculateProgress(completedKatas) {
 }
 
 function renderResults(resultData) {
-  console.log(resultData);
   resultData.forEach((dataObj) => {
     const tr = document.querySelector(`tr[data-id=${dataObj.title}]`);
 
@@ -116,7 +115,27 @@ function renderResults(resultData) {
 
     const tdDone = document.createElement('td');
     tdDone.textContent = `${donePercent}%`;
+    tdDone.setAttribute('data-id', 'calculated');
     tr.appendChild(tdDone);
+
+    if (dataObj.todo.length > 0) {
+      const tdTodo = document.createElement('td');
+      tdTodo.setAttribute('data-id', 'calculated');
+      const ul = document.createElement('ul');
+
+      dataObj.todo.forEach((todo) => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.setAttribute('href', `https://www.codewars.com/kata/${todo.id}`);
+        a.setAttribute('target', '_blank');
+        a.textContent = todo.title;
+        li.appendChild(a);
+        ul.appendChild(li);
+      });
+
+      tdTodo.appendChild(ul);
+      tr.appendChild(tdTodo);
+    }
   });
 }
 
@@ -140,6 +159,12 @@ window.addEventListener('DOMContentLoaded', async () => {
         return calculateProgress(res.data);
       })
       .then((results) => {
+        const calulatedTd = Array.from(
+          document.querySelectorAll('td[data-id=calculated]')
+        );
+        calulatedTd.forEach((td) => {
+          td.parentNode.removeChild(td);
+        });
         renderResults(results);
       });
   });

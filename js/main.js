@@ -31,7 +31,7 @@ async function generateCollections() {
   tr.appendChild(thSection);
 
   const thSlug = document.createElement('th');
-  thSlug.textContent = `Slug`;
+  thSlug.textContent = `Collection`;
   tr.appendChild(thSlug);
 
   const thKatas = document.createElement('th');

@@ -1,0 +1,56 @@
+:root {
+  --heading-font: 'Poppins', sans-serif;
+  --body-font: 'Hind', sans-serif;
+}
+
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: var(--body-font);
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+form {
+  margin: 2rem 0;
+  align-self: center;
+  gap: 0.5rem;
+}
+
+table {
+  align-self: center;
+  max-width: 1200px;
+  border-collapse: collapse;
+  border: 1px solid white;
+  background-color: hsl(160, 100%, 92%);
+}
+
+thead {
+  font-family: var(--heading-font);
+  background-color: hsl(160, 100%, 25%);
+  color: white;
+}
+
+tbody td {
+  text-align: center;
+}
+
+th,
+td {
+  border: 1px solid white;
+  padding: 0.5rem;
+}
+
+table ul {
+  list-style-type: none;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}

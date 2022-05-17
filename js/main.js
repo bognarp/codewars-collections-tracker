@@ -60,7 +60,14 @@ async function generateCollections() {
     tr.appendChild(tdSection);
 
     const tdSlug = document.createElement('td');
-    tdSlug.textContent = kata.title;
+    const tda = document.createElement('a');
+    tda.setAttribute(
+      'href',
+      `https://www.codewars.com/collections/${kata.title}`
+    );
+    tda.setAttribute('target', '_blank');
+    tda.textContent = kata.title;
+    tdSlug.appendChild(tda);
     tr.appendChild(tdSlug);
 
     const tdKatas = document.createElement('td');

@@ -512,5 +512,109 @@
         "title": "Multiples of 3 or 5"
       }
     ]
+  },
+  {
+    "section": "JS Intro",
+    "title": "boring-bananas",
+    "katas": [
+      {
+        "id": "57b06f90e298a7b53d000a86",
+        "title": "The Supermarket Queue"
+      },
+      {
+        "id": "550498447451fbbd7600041c",
+        "title": "Are they the \"same\"?"
+      },
+      {
+        "id": "550f22f4d758534c1100025a",
+        "title": "Directions Reduction"
+      },
+      {
+        "id": "556deca17c58da83c00002db",
+        "title": "Tribonacci Sequence"
+      },
+      {
+        "id": "54dc6f5a224c26032800005c",
+        "title": "Help the bookseller !"
+      }
+    ]
+  },
+  {
+    "section": "Web debugging and profiling tools",
+    "title": "practical-pyramids",
+    "katas": [
+      {
+        "id": "546f922b54af40e1e90001da",
+        "title": "Replace With Alphabet Position"
+      },
+      {
+        "id": "586538146b56991861000293",
+        "title": "If you can read this..."
+      },
+      {
+        "id": "52e1476c8147a7547a000811",
+        "title": "Regex Password Validation"
+      },
+      {
+        "id": "58b57ae2724e3c63df000006",
+        "title": "Parse HTML/CSS Colors"
+      },
+      {
+        "id": "54bf1c2cd5b56cc47f0007a1",
+        "title": "Counting Duplicates"
+      }
+    ]
+  },
+  {
+    "section": "Data types",
+    "title": "absolute-algorithms",
+    "katas": [
+      {
+        "id": "5a7f58c00025e917f30000f1",
+        "title": "Longest alphabetical substring"
+      },
+      {
+        "id": "57f548337763f20e02000114",
+        "title": "String Evaluation"
+      },
+      {
+        "id": "556e0fccc392c527f20000c5",
+        "title": "Fibonacci, Tribonacci and friends"
+      },
+      {
+        "id": "530e15517bc88ac656000716",
+        "title": "Rot13"
+      },
+      {
+        "id": "5626b561280a42ecc50000d1",
+        "title": "Take a Number And Sum  Its Digits Raised To The Consecutive Powers And ....¡Eureka!!"
+      }
+    ]
+  },
+  {
+    "section": "Data types",
+    "title": "functional-fruits",
+    "katas": [
+      {
+        "id": "52efefcbcdf57161d4000091",
+        "title": "Count characters in your string"
+      },
+      {
+        "id": "55c45be3b2079eccff00010f",
+        "title": "Your order,  please"
+      },
+      {
+        "id": "578aa45ee9fd15ff4600090d",
+        "title": "Sort the odd"
+      },
+      {
+        "id": "58f5c63f1e26ecda7e000029",
+        "title": "Mexican Wave"
+      },
+      {
+        "id": "546f922b54af40e1e90001da",
+        "title": "Replace With Alphabet Position"
+      }
+    ]
   }
 ]

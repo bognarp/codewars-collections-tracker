@@ -26,5 +26,21 @@
   {
     "section": "CSS Methodologies",
     "url": "https://www.codewars.com/collections/quiet-quanta"
+  },
+  {
+    "section": "JS Intro",
+    "url": "https://www.codewars.com/collections/boring-bananas"
+  },
+  {
+    "section": "Web debugging and profiling tools",
+    "url": "https://www.codewars.com/collections/practical-pyramids"
+  },
+  {
+    "section": "Data types",
+    "url": "https://www.codewars.com/collections/absolute-algorithms"
+  },
+  {
+    "section": "Data types",
+    "url": "https://www.codewars.com/collections/functional-fruits"
   }
 ]

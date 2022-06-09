@@ -42,5 +42,33 @@
   {
     "section": "Functions",
     "url": "https://www.codewars.com/collections/functional-fruits"
+  },
+  {
+    "section": "ES Next",
+    "url": "https://www.codewars.com/collections/various-visuals"
+  },
+  {
+    "section": "Agile, Scrum",
+    "url": "https://www.codewars.com/collections/interesting-ideas-1"
+  },
+  {
+    "section": "JS DOM Events",
+    "url": "https://www.codewars.com/collections/utmost-umbrellas"
+  },
+  {
+    "section": "Object Oriented Programming",
+    "url": "https://www.codewars.com/collections/hesitant-heroes"
+  },
+  {
+    "section": "JS Modules",
+    "url": "https://www.codewars.com/collections/hesitant-heroes"
+  },
+  {
+    "section": "JS Unit Testing",
+    "url": "https://www.codewars.com/collections/tactical-teaspoons"
+  },
+  {
+    "section": "Frontend Optimization",
+    "url": "https://www.codewars.com/collections/mindblowing-machines"
   }
 ]

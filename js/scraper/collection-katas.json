@@ -616,5 +616,191 @@
         "title": "Replace With Alphabet Position"
       }
     ]
+  },
+  {
+    "section": "ES Next",
+    "title": "various-visuals",
+    "katas": [
+      {
+        "id": "5503013e34137eeeaa001648",
+        "title": "Give me a Diamond"
+      },
+      {
+        "id": "56dbe7f113c2f63570000b86",
+        "title": "Moves in squared strings (II)"
+      },
+      {
+        "id": "552c028c030765286c00007d",
+        "title": "IQ Test"
+      },
+      {
+        "id": "54ca3e777120b56cb6000710",
+        "title": "Unary function chainer"
+      },
+      {
+        "id": "58b38256e51f1c2af0000081",
+        "title": "Simple Fun #166: Best Match"
+      },
+      {
+        "id": "53c8b29750fe70e4a2000610",
+        "title": "Haskell List  Dot Notation"
+      }
+    ]
+  },
+  {
+    "section": "Agile, Scrum",
+    "title": "interesting-ideas-1",
+    "katas": [
+      {
+        "id": "526d42b6526963598d0004db",
+        "title": "Caesar Cipher Helper"
+      },
+      {
+        "id": "515bb423de843ea99400000a",
+        "title": "PaginationHelper"
+      },
+      {
+        "id": "51fc3beb41ecc97ee20000c3",
+        "title": "Lazy Repeater"
+      },
+      {
+        "id": "526dad7f8c0eb5c4640000a4",
+        "title": "Vector class"
+      },
+      {
+        "id": "52d3b68215be7c2d5300022f",
+        "title": "Simple Events"
+      }
+    ]
+  },
+  {
+    "section": "JS DOM Events",
+    "title": "utmost-umbrellas",
+    "katas": [
+      {
+        "id": "5a00a8b5ffe75f8888000080",
+        "title": "Zeros and Ones"
+      },
+      {
+        "id": "587a88a208236efe8500008b",
+        "title": "Sum of a Sequence [Hard-Core Version]"
+      },
+      {
+        "id": "52de553ebb55d1fca3000371",
+        "title": "Find the missing term in an Arithmetic Progression"
+      },
+      {
+        "id": "58ad388555bf4c80e800001e",
+        "title": "Simple Fun #160: Cut The Ropes"
+      },
+      {
+        "id": "517abf86da9663f1d2000003",
+        "title": "Convert string to camel case"
+      },
+      {
+        "id": "54d512e62a5e54c96200019e",
+        "title": "Primes in numbers"
+      },
+      {
+        "id": "52a89c2ea8ddc5547a000863",
+        "title": "Can you get the loop ?"
+      },
+      {
+        "id": "54c9fcad28ec4c6e680011aa",
+        "title": "Merged String Checker"
+      },
+      {
+        "id": "52685f7382004e774f0001f7",
+        "title": "Human Readable Time"
+      },
+      {
+        "id": "5550d638a99ddb113e0000a2",
+        "title": "Josephus Permutation"
+      }
+    ]
+  },
+  {
+    "section": "Object Oriented Programming",
+    "title": "hesitant-heroes",
+    "katas": [
+      {
+        "id": "520b9d2ad5c005041100000f",
+        "title": "Simple Pig Latin"
+      },
+      {
+        "id": "52597aa56021e91c93000cb0",
+        "title": "Moving Zeros To The End"
+      },
+      {
+        "id": "52774a314c2333f0a7000688",
+        "title": "Valid Parentheses"
+      },
+      {
+        "id": "513e08acc600c94f01000001",
+        "title": "RGB To Hex Conversion"
+      },
+      {
+        "id": "523a86aa4230ebb5420001e1",
+        "title": "Where my anagrams at?"
+      }
+    ]
+  },
+  {
+    "section": "JS Modules",
+    "title": "hesitant-heroes",
+    "katas": [
+      {
+        "id": "520b9d2ad5c005041100000f",
+        "title": "Simple Pig Latin"
+      },
+      {
+        "id": "52597aa56021e91c93000cb0",
+        "title": "Moving Zeros To The End"
+      },
+      {
+        "id": "52774a314c2333f0a7000688",
+        "title": "Valid Parentheses"
+      },
+      {
+        "id": "513e08acc600c94f01000001",
+        "title": "RGB To Hex Conversion"
+      },
+      {
+        "id": "523a86aa4230ebb5420001e1",
+        "title": "Where my anagrams at?"
+      }
+    ]
+  },
+  {
+    "section": "JS Unit Testing",
+    "title": "tactical-teaspoons",
+    "katas": [
+      {
+        "id": "534e01fbbb17187c7e0000c6",
+        "title": "Make a spiral"
+      },
+      {
+        "id": "5861487fdb20cff3ab000030",
+        "title": "Esolang Interpreters #4 - Boolfuck Interpreter"
+      }
+    ]
+  },
+  {
+    "section": "Frontend Optimization",
+    "title": "mindblowing-machines",
+    "katas": [
+      {
+        "id": "52bb6539a4cf1b12d90005b7",
+        "title": "Battleship field validator"
+      },
+      {
+        "id": "5296bc77afba8baa690002d7",
+        "title": "Sudoku Solver"
+      },
+      {
+        "id": "5923fbc72eafa9bcff00011a",
+        "title": "Multiplying numbers as strings: Part II"
+      }
+    ]
   }
 ]

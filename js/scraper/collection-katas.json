@@ -747,27 +747,27 @@
   },
   {
     "section": "JS Modules",
-    "title": "hesitant-heroes",
+    "title": "recursive-roses",
     "katas": [
       {
-        "id": "520b9d2ad5c005041100000f",
-        "title": "Simple Pig Latin"
+        "id": "52d1bd3694d26f8d6e0000d3",
+        "title": "Vigenère Cipher Helper"
       },
       {
-        "id": "52597aa56021e91c93000cb0",
-        "title": "Moving Zeros To The End"
+        "id": "5302d655be2a91068b0001fb",
+        "title": "Dependency Injection"
       },
       {
-        "id": "52774a314c2333f0a7000688",
-        "title": "Valid Parentheses"
+        "id": "52d4678038644497e900007c",
+        "title": "Advanced Events"
       },
       {
-        "id": "513e08acc600c94f01000001",
-        "title": "RGB To Hex Conversion"
+        "id": "5877e7d568909e5ff90017e6",
+        "title": "How many numbers III?"
       },
       {
-        "id": "523a86aa4230ebb5420001e1",
-        "title": "Where my anagrams at?"
+        "id": "57680d0128ed87c94f000bfd",
+        "title": "Boggle Word Checker"
       }
     ]
   },

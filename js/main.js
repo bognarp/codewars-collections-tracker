@@ -1,10 +1,27 @@
+function fetchPage(username, page) {
+  return fetch(
+    `https://www.codewars.com/api/v1/users/${username}/code-challenges/completed?page=${page}`
+  ).then((res) => res.json());
+}
+
 function fetchCodewars(username) {
   return fetch(
-    `https://www.codewars.com/api/v1/users/${username}/code-challenges/completed?`
+    `https://www.codewars.com/api/v1/users/${username}/code-challenges/completed`
   )
     .then((response) => response.json())
     .then((data) => {
-      return data;
+      if (data.totalPages < 2) {
+        return data.data;
+      }
+
+      const promises = Array.from(Array(data.totalPages - 1), (_, idx) =>
+        fetchPage(username, idx + 1)
+      );
+
+      return Promise.all(promises).then((res) => {
+        const newData = res.reduce((arr, elem) => [...arr, ...elem.data], []);
+        return [...data.data, ...newData];
+      });
     });
 }
 
@@ -147,8 +164,6 @@ function renderResults(resultData) {
 }
 
 window.addEventListener('DOMContentLoaded', async () => {
-  console.log('DOM fully loaded and parsed');
-
   const collections = await generateCollections();
   const body = document.querySelector('body');
   body.appendChild(collections);
@@ -162,9 +177,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     const username = formData.get('username');
 
     fetchCodewars(username)
-      .then((res) => {
-        return calculateProgress(res.data);
-      })
+      .then((res) => calculateProgress(res))
       .then((results) => {
         const calulatedTd = Array.from(
           document.querySelectorAll('td[data-id=calculated]')
